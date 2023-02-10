@@ -1,1 +1,1 @@
-# bash-scripting-course
+# Bash-scripting course
